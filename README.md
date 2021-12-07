@@ -12,12 +12,12 @@ To run the code, follow these steps:
 ## Outputs
 This repository consists of the following output files:
 
-| File Name                          | Description                                              |
-|------------------------------------|----------------------------------------------------------|
-| `analysis.csv`                     | Outlines performance of all the models (Task 1 + Task 2) |
-| `word2vec-google-news-300-details` | Output file of this model (for each row of synonyms)     |
-| `glove-wiki-gigaword-100`          | Output file of this model (for each row of synonyms)     |
-| `glove-twitter-100`                | Output file of this model (for each row of synonyms)     |
-| `glove-wiki-gigaword-50`           | Output file of this model (for each row of synonyms)     |
-| `glove-wiki-gigaword-300`          | Output file of this model (for each row of synonyms)     |
+| File Name                                      | Description                                              |
+|------------------------------------------------|----------------------------------------------------------|
+| `analysis.csv`                                 | Outlines performance of all the models (Task 1 + Task 2) |
+| `word2vec-google-news-300-details.csv`         | Output file of this model (for each row of synonyms)     |
+| `glove-wiki-gigaword-100-details.csv`          | Output file of this model (for each row of synonyms)     |
+| `glove-twitter-100-details.csv`                | Output file of this model (for each row of synonyms)     |
+| `glove-wiki-gigaword-50-details.csv`           | Output file of this model (for each row of synonyms)     |
+| `glove-wiki-gigaword-300-details.csv`          | Output file of this model (for each row of synonyms)     |
 
