@@ -1,0 +1,120 @@
+21.	recognized
+a.	successful
+b.	depicted
+c.	acknowledged
+d.	welcomed
+c
+47.	keen
+a.	useful
+b.	simple
+c.	famous
+d.	sharp
+d
+18.	issues
+a.	training
+b.	salaries
+c.	subjects
+d.	benefits
+c
+23.	make
+a.	earn
+b.	print
+c.	trade
+d.	borrow
+a
+4.	prominent
+a.	battered
+b.	ancient
+c.	mysterious
+d.	conspicuous
+d
+50.	slowly
+a.	rarely
+b.	gradually
+c.	effectively
+d.	continuously
+b
+51.	built
+a.	constructed
+b.	proposed
+c.	financed
+d.	organized
+a
+62.	sustained
+a.	prolonged
+b.	refined
+c.	lowered
+d.	analyzed
+a
+33.	distribute
+a.	commercialize
+b.	circulate
+c.	research
+d.	acknowledge
+b
+8.	consumed
+a.	bred
+b.	caught
+c.	eaten
+d.	supplied
+c
+56.	wildly
+a.	distinctively
+b.	mysteriously
+c.	abruptly
+d.	furiously
+d
+52.	tasks
+a.	customers
+b.	materials
+c.	shops
+d.	jobs
+d
+66.	primarily
+a.	occasionally
+b.	cautiously
+c.	consistently
+d.	chiefly
+d
+67.	colloquial
+a.	recorded
+b.	misunderstood
+c.	incorrect
+d.	conversational
+d
+37.	peculiarly
+a.	partly
+b.	uniquely
+c.	patriotically
+d.	suspiciously
+b
+20.	costly
+a.	expensive
+b.	beautiful
+c.	popular
+d.	complicated
+a
+14.	perseverance
+a.	endurance
+b.	skill
+c.	generosity
+d.	disturbance
+a
+64.	tranquillity
+a.	peacefulness
+b.	harshness
+c.	weariness
+d.	happiness
+a
+59.	concocted
+a.	devised
+b.	cleaned
+c.	requested
+d.	supervised
+a
+41.	hastily
+a.	hurriedly
+b.	shrewdly
+c.	habitually
+d.	chronologically
+a
